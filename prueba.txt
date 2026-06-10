@@ -2,3 +2,9 @@
 [feature/register 43ecbdd] feat: falta diseno
  1 file changed, 1 insertion(+)
  create mode 100644 prueba.txt
+funcion de registros de usuarios
+
+Campos del registro:
+- Nombre
+- Correo
+- Contraseña
