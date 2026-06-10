@@ -1,0 +1,3 @@
+=== CATÁLOGO DE PRODUCTOS ===
+1. Mostrar lista de artículos disponibles.
+2. Filtrar productos por categoría y precio.
