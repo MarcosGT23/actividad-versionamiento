@@ -7,5 +7,5 @@ funcion de registros de usuarios
 
 Campos del registro:
 - Nombre:
-- Correo:
+
 - Contraseña:
